@@ -1,6 +1,6 @@
 # Mecca.com
 Mecca.com (E-Commerce Web Application)
-![image](https://github.com/user-attachments/assets/dee7f0b4-f6a3-42ee-98d2-0fa3eb67a135)
+![image](https://github.com/user-attachments/assets/3d8e7b5c-0d5f-4db9-8db8-48084bdbe5cf)
 
 To run this project:
 
