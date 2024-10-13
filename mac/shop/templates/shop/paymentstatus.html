@@ -1,0 +1,22 @@
+{% extends 'shop/basic.html' %}
+{% block title %} Checkout-My Awesome Cart {% endblock %}
+{% block body %}
+<div class="container">
+    {{response}}
+    <div class="col my-3">
+        <h2>Payment Status - {{response.ORDERID}}</h2>
+        {% if reponse.RESPCODE == "01" %}
+        Order Success
+        {% else %}
+        Order Failure
+        {% endif %}
+ 
+    </div>
+    
+</div>
+{% endblock %}
+{% block js %}
+<script>
+
+</script>
+{% endblock %}
